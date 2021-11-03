@@ -1,0 +1,16 @@
+:root {
+  --header-color: #b8b8b8;
+  --header-text-color: #ffffff;
+  --body-color: #ececec;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  height: 100%;
+}
