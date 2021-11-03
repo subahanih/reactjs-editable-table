@@ -12,7 +12,7 @@ Implementation:
 6. Added support for deleting rows.
 7. Made each column sortable upon clicking on a column header.
 8. Wrote below installation guide on how to run the app.
-9. Pushed code to a public GitHub repository(https://github.com/subahanih/eactjs-editable-table).
+9. Pushed code to a public GitHub repository(https://github.com/subahanih/reactjs-editable-table).
 10. Deploy a live build on the internet
 11. FOLLOWED THE DESIGN AS ACCURATELY AS I CAN (I have created a same logo given in the styleguide using Adobe Photoshop).
 
